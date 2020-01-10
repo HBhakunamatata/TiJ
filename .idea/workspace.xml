@@ -24,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/src/Ch08/Ch08.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="253">
-                <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+              <first_editor relative-caret-position="-700">
+                <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -118,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -140,39 +141,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch08" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch08" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,7 +156,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../net.mindview.util.jar!/" />
+    <property name="last_opened_file_path" value="E:/git_pro/hcsp/fix-add-function/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -304,8 +278,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12254161" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12556732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -787,13 +762,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch08/Exercise/PrintExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Exercise/PrintExercise.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch08/Exercise/exercise3/BasedPrint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -825,13 +794,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch08/Exercise/exercise04/TestWhat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Exercise/exercise04/TestWhat.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch08/Exercise/exercise04/DerivedClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -862,8 +825,8 @@
     <entry file="file://$PROJECT_DIR$/src/Ch08/Ch08.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <first_editor relative-caret-position="-700">
+            <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
