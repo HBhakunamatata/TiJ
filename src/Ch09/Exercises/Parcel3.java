@@ -23,6 +23,6 @@ public class Parcel3 {
     public static void main(String[] args) {
         Parcel3 p = new Parcel3();
         Parcel3.Content content = p.new Content();
-        Parcel3.Destination dest = p.new Destination("CHina");
+        Parcel3.Destination dest = p.new Destination("China");
     }
 }
