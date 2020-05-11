@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch08/Ch08.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch08/Ch08.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,13 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch09/Ch09.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -49,18 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch06/Exercise/LazyInitialization.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/Beetle.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/SprinklerSystem.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/Bath.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/Exercise/Second.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/Detergent.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/Cartoon.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/Exercise/C.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/Chess.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/SpaceShipDelegation.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/NameHide.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/BlankFinal.java" />
         <option value="$PROJECT_DIR$/src/Ch06/Ch06.md" />
         <option value="$PROJECT_DIR$/src/Ch06/Wind.java" />
         <option value="$PROJECT_DIR$/src/Ch02_Operator/StringOperator.java" />
@@ -100,6 +87,18 @@
         <option value="$PROJECT_DIR$/src/Ch08/Exercise/exercise05/SolonSword.java" />
         <option value="$PROJECT_DIR$/src/Ch08/Ch08.md" />
         <option value="$PROJECT_DIR$/src/Ch09/Ch09.md" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel1.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel2.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise01.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Outer.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/StringSequence.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Outer02.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Dotthis.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/DotNew.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel3.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Sequence02.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java" />
       </list>
     </option>
   </component>
@@ -168,6 +167,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch09" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch09" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,13 +182,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="E:/git_pro/hcsp/fix-add-function/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Ch09/Exercises" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch09\Exercises" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ch09.Exercises" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch00" />
     </key>
@@ -199,13 +211,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DerivedClass">
-    <configuration name="Beetle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch07.Beetle" />
+  <component name="RunManager" selected="Application.Dotthis">
+    <configuration name="Dotthis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Dotthis" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch07.*" />
+          <option name="PATTERN" value="Ch09.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CovariantReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch07.CovariantReturn" />
+    <configuration name="Outer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Outer02" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch07.*" />
+          <option name="PATTERN" value="Ch09.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DerivedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch08.Exercise.exercise04.DerivedClass" />
+    <configuration name="Parcel1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Parcel1" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch08.Exercise.exercise04.*" />
+          <option name="PATTERN" value="Ch09.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DerivedPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch08.Exercise.exercise3.DerivedPrint" />
+    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Sequence" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch08.Exercise.exercise3.*" />
+          <option name="PATTERN" value="Ch09.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FieldAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch07.FieldAccess" />
+    <configuration name="StringSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.StringSequence" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch07.*" />
+          <option name="PATTERN" value="Ch09.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DerivedClass" />
-        <item itemvalue="Application.DerivedPrint" />
-        <item itemvalue="Application.CovariantReturn" />
-        <item itemvalue="Application.Beetle" />
-        <item itemvalue="Application.FieldAccess" />
+        <item itemvalue="Application.Dotthis" />
+        <item itemvalue="Application.Outer02" />
+        <item itemvalue="Application.StringSequence" />
+        <item itemvalue="Application.Sequence" />
+        <item itemvalue="Application.Parcel1" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +312,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,13 +320,13 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2262295" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2262295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27540985" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.083606556" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
@@ -346,145 +358,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch06/SprinklerSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="36" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercise/Second.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-          <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Bath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Detergent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-          <folding>
-            <element signature="e#66#67#0" expanded="true" />
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Cartoon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercise/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Chess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/SpaceShipDelegation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/NameHide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/BlankFinal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Ch06.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1560">
-            <caret line="106" column="22" lean-forward="true" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/Wind.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -848,10 +721,140 @@
     <entry file="file://$PROJECT_DIR$/src/Ch09/Ch09.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <first_editor relative-caret-position="25">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#713#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/StringSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Outer02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Dotthis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/DotNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="25" column="62" lean-forward="true" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Sequence02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
