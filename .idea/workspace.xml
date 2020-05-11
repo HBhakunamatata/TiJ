@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercise6_A/InterfaceinA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercise6_B/ClassinB$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercise6_B/ClassinB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercise6_C/Exercise06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/DotNew$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/DotNew.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Exercise05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Parcel3$Content.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Parcel3$Destination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Parcel3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Sequence02$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Sequence02$SequenceSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Sequence02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercise6_A/InterfaceinA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercise6_B/ClassinB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercise6_C/Exercise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Selector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch08/Ch08.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch08/Ch08.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Dotthis$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Dotthis$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Dotthis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Dotthis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch09/Exercises/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Sequence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,10 +40,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Selector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="50">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -48,9 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch06/Ch06.md" />
-        <option value="$PROJECT_DIR$/src/Ch06/Wind.java" />
-        <option value="$PROJECT_DIR$/src/Ch02_Operator/StringOperator.java" />
         <option value="$PROJECT_DIR$/src/Ch07/PolyConstructors.java" />
         <option value="$PROJECT_DIR$/src/gitnote.md" />
         <option value="$PROJECT_DIR$/src/Ch07/Note.java" />
@@ -99,6 +114,9 @@
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel3.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Sequence02.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercise6_A/InterfaceinA.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercise6_B/ClassinB.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercise6_C/Exercise06.java" />
       </list>
     </option>
   </component>
@@ -211,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dotthis">
+  <component name="RunManager" selected="Application.Exercise06">
     <configuration name="Dotthis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Dotthis" />
       <module name="TiJ" />
@@ -225,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Outer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Outer02" />
+    <configuration name="Exercise06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercise6_C.Exercise06" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch09.Exercises.*" />
+          <option name="PATTERN" value="Ch09.Exercise6_C.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,8 +256,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parcel1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Parcel1" />
+    <configuration name="Outer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Outer02" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -279,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise06" />
         <item itemvalue="Application.Dotthis" />
         <item itemvalue="Application.Outer02" />
         <item itemvalue="Application.StringSequence" />
         <item itemvalue="Application.Sequence" />
-        <item itemvalue="Application.Parcel1" />
       </list>
     </recent_temporary>
   </component>
@@ -305,12 +323,25 @@
       <option name="project" value="LOCAL" />
       <updated>1578397523606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="reading Ch09">
+      <created>1589181883268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589181883268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="reading Ch09">
+      <created>1589181940787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589181940787</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -342,7 +373,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reading Ch08" />
-    <option name="LAST_COMMIT_MESSAGE" value="reading Ch08" />
+    <MESSAGE value="reading Ch09" />
+    <option name="LAST_COMMIT_MESSAGE" value="reading Ch09" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -358,37 +390,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Wind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch00/Ch000.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-75">
-            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02_Operator/StringOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gitnote.md" />
     <entry file="file://$PROJECT_DIR$/src/Ch07/music/Note.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -853,8 +854,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercise6_A/InterfaceinA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercise6_B/ClassinB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercise6_C/Exercise06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
