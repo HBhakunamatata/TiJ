@@ -4,13 +4,19 @@
     <bookmark url="file://$PROJECT_DIR$/src/Ch02_Operator/Ch02.md" line="38" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
+    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="keep on Ch09">
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Exercise09$1RedTea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Exercise09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Parcel6$1TracingSlip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Parcel6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Tea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Exercise09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Parcel6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Parcel7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Parcel3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Parcel3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Selector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Sequence$SequenceSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch09/Exercises/Sequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch09/Exercises/Parcel3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Parcel3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,16 +31,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel5.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-              <folding>
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -57,12 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch07/music/Wind.java" />
-        <option value="$PROJECT_DIR$/src/Ch07/music/Music.java" />
-        <option value="$PROJECT_DIR$/src/Ch07/music/Stringed.java" />
-        <option value="$PROJECT_DIR$/src/Ch07/music/Brass.java" />
-        <option value="$PROJECT_DIR$/src/Ch07/music/Music2.java" />
-        <option value="$PROJECT_DIR$/src/Ch07/shape/Shape.java" />
         <option value="$PROJECT_DIR$/src/Ch07/shape/Circle.java" />
         <option value="$PROJECT_DIR$/src/Ch07/shape/Triangle.java" />
         <option value="$PROJECT_DIR$/src/Ch07/shape/Square.java" />
@@ -108,6 +102,12 @@
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Destination.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel4.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel5.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel6.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise09.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise10.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise11.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Content.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel7.java" />
       </list>
     </option>
   </component>
@@ -135,29 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-              <item name="Ch04" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-              <item name="Ch04" type="1f31426a:PackageElementNode" />
-              <item name="Exercise" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,6 +164,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+              <item name="Ch09" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,14 +192,14 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch09\Exercises" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch00" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Ch09.Exercises" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch00" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch09\Exercises" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Parcel5">
+  <component name="RunManager" selected="Application.Exercise09">
     <configuration name="AccessInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.AccessInner" />
       <module name="TiJ" />
@@ -234,21 +228,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch09.Exercise6_C.Exercise06" />
-      <module name="TiJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch09.Exercise6_C.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Exercise07" />
+    <configuration name="Exercise09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Exercise09" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -286,13 +267,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Parcel6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Parcel6" />
+      <module name="TiJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch09.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise09" />
+        <item itemvalue="Application.Parcel6" />
         <item itemvalue="Application.Parcel5" />
         <item itemvalue="Application.Parcel4" />
         <item itemvalue="Application.AccessInner" />
-        <item itemvalue="Application.Exercise07" />
-        <item itemvalue="Application.Exercise06" />
       </list>
     </recent_temporary>
   </component>
@@ -335,14 +329,28 @@
       <option name="project" value="LOCAL" />
       <updated>1589201908282</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="keep on Ch09">
+      <created>1589210308971</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589210308971</updated>
+    </task>
+    <task id="LOCAL-00006" summary="keep on Ch09">
+      <created>1589210422670</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589210422670</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19515885" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1452345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -351,7 +359,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2262295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2262295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,7 +367,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.083606556" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32786885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2375189" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -374,7 +382,8 @@
     <MESSAGE value="reading Ch08" />
     <MESSAGE value="reading Ch09" />
     <MESSAGE value="devide an interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="devide an interface" />
+    <MESSAGE value="keep on Ch09" />
+    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch09" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -390,60 +399,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch07/music/Brass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/music/Music2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/shape/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/shape/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/shape/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/shape/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch07/shape/Shapes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -882,14 +837,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        <state relative-caret-position="263">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="class#163:540" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
