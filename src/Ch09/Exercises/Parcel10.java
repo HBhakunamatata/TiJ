@@ -13,7 +13,7 @@ public class Parcel10 {
     destination( final String dest, final float price){
         return new Destination() {
             private int cost;
-            // Instance initialization for each object: 
+            // Instance initialization for each object:
             {
                 cost = Math.round(price);
                 if(cost >= 100){
