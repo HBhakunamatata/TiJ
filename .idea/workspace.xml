@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.ignore">
+        <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="385">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -46,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel2.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise01.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Outer.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Sequence.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/StringSequence.java" />
@@ -94,9 +93,11 @@
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Sequence03.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise23.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/InheritingInner.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise24.java" />
         <option value="$PROJECT_DIR$/.ignore" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise26.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java" />
       </list>
     </option>
   </component>
@@ -147,20 +148,6 @@
               <item name="TiJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch09" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise6_B" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch09" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise6_C" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch09" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,12 +156,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch09" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise09.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="InheritInner.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -191,7 +179,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,9 +212,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sequence03">
-    <configuration name="Exercise20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.Exercise20" />
+  <component name="RunManager" selected="Application.BigEgg2">
+    <configuration name="BigEgg2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Exercises.BigEgg2" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -293,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigEgg2" />
         <item itemvalue="Application.Sequence03" />
         <item itemvalue="Application.MultiImplementation" />
         <item itemvalue="Application.MultiNestingAccess" />
         <item itemvalue="Application.Exercise21" />
-        <item itemvalue="Application.Exercise20" />
       </list>
     </recent_temporary>
   </component>
@@ -396,14 +383,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589730173525</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="keep on Ch09 (cheer up)">
+      <created>1589796012208</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589796012208</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13993949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14220877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -412,7 +406,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2262295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3622951" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,6 +434,18 @@
     <MESSAGE value="keep on Ch09 (cheer up)" />
     <option name="LAST_COMMIT_MESSAGE" value="keep on Ch09 (cheer up)" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -454,31 +460,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/StringSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Dotthis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/DotNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Outer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -928,17 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise24.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -952,8 +922,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.ignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="325">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise26.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../net.mindview.util.jar!/net/mindview/util/Print.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
