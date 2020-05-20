@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch09/Ch09.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Ch09.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +21,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <entry file="file://$PROJECT_DIR$/src/Ch09/Ch09.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2350">
+                <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -47,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Outer.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Sequence.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/StringSequence.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Outer02.java" />
@@ -98,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise26.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Ch09.md" />
       </list>
     </option>
   </component>
@@ -125,6 +128,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+              <item name="Ch09" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,38 +163,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch09" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch09" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch09" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="InheritInner.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-              <item name="Ch09" type="1f31426a:PackageElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -190,14 +178,15 @@
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch00" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch09\Exercises" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Ch09.Exercises" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch09\Exercises" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch09" />
+      <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch00" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -390,14 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589796012208</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="finish Ch09">
+      <created>1589895804857</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589895804857</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14220877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14674735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,7 +428,8 @@
     <MESSAGE value="keep on Ch09" />
     <MESSAGE value="keep on Ch09 :&lt;" />
     <MESSAGE value="keep on Ch09 (cheer up)" />
-    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch09 (cheer up)" />
+    <MESSAGE value="finish Ch09" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish Ch09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -460,13 +457,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -827,17 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/MultiInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/MultiImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -888,27 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise24.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -947,8 +905,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
+        <state relative-caret-position="386">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/MultiInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Ch09.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2350">
+            <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
