@@ -1,6 +1,6 @@
 package Ch09.Exercises;
 
-interface Selector {
+public interface Selector {
     boolean end();
     void next();
     Object current();
