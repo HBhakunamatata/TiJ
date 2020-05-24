@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/AsArrayInference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Crusty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Heavy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Light.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Powder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Slush.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Snow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch09/Exercises/Selector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Exercises/Selector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch10/Exercise/GenericsAndUpcasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch10/Exercise/GenericsAndUpcasting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,13 +29,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/AddGroups.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-499">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -51,8 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch09/Exercise6_C/Exercise06.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise07.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/AccessInner.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel3.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Destination.java" />
@@ -102,6 +104,8 @@
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Selector.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/Sequence.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/AddGroups.java" />
+        <option value="$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java" />
+        <option value="$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java" />
       </list>
     </option>
   </component>
@@ -129,23 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-              <item name="Ch09" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +157,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch10" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+              <item name="Ch09" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -210,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddGroups">
+  <component name="RunManager" selected="Application.AsArrayInference">
     <configuration name="AddGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch10.Exercise.AddGroups" />
       <module name="TiJ" />
@@ -224,8 +228,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch10.Exercise.Exercise01" />
+    <configuration name="AsArrayInference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch10.Exercise.AsArrayInference" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -237,8 +241,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsAndUpcasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch10.Exercise.GenericsAndUpcasting" />
+    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch10.Exercise.Exercise01" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -278,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsArrayInference" />
         <item itemvalue="Application.AddGroups" />
         <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.SimpleCollection" />
         <item itemvalue="Application.Exercise01" />
-        <item itemvalue="Application.GenericsAndUpcasting" />
       </list>
     </recent_temporary>
   </component>
@@ -416,14 +420,20 @@
       <option name="project" value="LOCAL" />
       <updated>1590070383899</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="start Ch10">
+      <created>1590156169796</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590156169796</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15355521" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15582451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,7 +442,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34918034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26065573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,20 +499,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/AnonymousConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="47">
@@ -974,11 +970,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/AddGroups.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#511#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-499">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
