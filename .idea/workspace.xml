@@ -4,18 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Ch02_Operator/Ch02.md" line="38" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/AsArrayInference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Crusty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Heavy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Light.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Powder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Slush.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/Snow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +20,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-499">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="410">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -427,11 +419,19 @@
       <option name="project" value="LOCAL" />
       <updated>1590156169796</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="keep on Ch10">
+      <created>1590302660180</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590302660250</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15582451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -442,7 +442,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26065573" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26065573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -471,7 +471,8 @@
     <MESSAGE value="finish Ch09" />
     <MESSAGE value="finish Ch09.md" />
     <MESSAGE value="start Ch10" />
-    <option name="LAST_COMMIT_MESSAGE" value="start Ch10" />
+    <MESSAGE value="keep on Ch10" />
+    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -991,8 +992,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-499">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="410">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
