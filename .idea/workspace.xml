@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/Ch02_Operator/Ch02.md" line="38" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="" />
+    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +20,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="31" selection-start-column="31" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -47,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/AccessInner.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel3.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Destination.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel4.java" />
@@ -98,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/AddGroups.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
       </list>
     </option>
   </component>
@@ -125,36 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -171,6 +143,29 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch11" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -426,14 +421,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590302660250</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="finish Ch10 (but remember to improve)">
+      <created>1590416772193</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590416772193</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15582451" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1603631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -472,7 +474,8 @@
     <MESSAGE value="finish Ch09.md" />
     <MESSAGE value="start Ch10" />
     <MESSAGE value="keep on Ch10" />
-    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch10" />
+    <MESSAGE value="finish Ch10 (but remember to improve)" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish Ch10 (but remember to improve)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -500,19 +503,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/AnonymousConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -992,11 +982,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="111">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="31" selection-start-column="31" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
