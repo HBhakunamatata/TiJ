@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Exercise/PrintingContainers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/CreatingExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/SimpleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch11/Exercise/CreatingExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch10/Ch10.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch10/Ch10.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,13 +26,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="31" selection-start-column="31" selection-end-column="31" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/CreatingExceptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -49,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel3.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Destination.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel4.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel5.java" />
@@ -100,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/CreatingExceptions.java" />
       </list>
     </option>
   </component>
@@ -127,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -161,11 +165,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch11" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch11" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AsArrayInference">
+  <component name="RunManager" selected="Application.CreatingExceptions">
     <configuration name="AddGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch10.Exercise.AddGroups" />
       <module name="TiJ" />
@@ -228,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch10.Exercise.Exercise01" />
+    <configuration name="CreatingExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.CreatingExceptions" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch10.Exercise.*" />
+          <option name="PATTERN" value="Ch11.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreatingExceptions" />
         <item itemvalue="Application.AsArrayInference" />
         <item itemvalue="Application.AddGroups" />
         <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.SimpleCollection" />
-        <item itemvalue="Application.Exercise01" />
       </list>
     </recent_temporary>
   </component>
@@ -428,14 +438,20 @@
       <option name="project" value="LOCAL" />
       <updated>1590416772193</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="start Ch11">
+      <created>1590504218990</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590504218990</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1603631" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16263238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -444,7 +460,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26065573" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26065573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,7 +491,8 @@
     <MESSAGE value="start Ch10" />
     <MESSAGE value="keep on Ch10" />
     <MESSAGE value="finish Ch10 (but remember to improve)" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish Ch10 (but remember to improve)" />
+    <MESSAGE value="start Ch11" />
+    <option name="LAST_COMMIT_MESSAGE" value="start Ch11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -503,17 +520,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Parcel7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -997,6 +1003,13 @@
             <caret column="31" selection-start-column="31" selection-end-column="31" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/CreatingExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
