@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/Ch02_Operator/Ch02.md" line="38" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="" />
+    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +20,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise05.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/LogExeceptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="150">
+              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,8 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise11.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Content.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel7.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Parcel7b.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Wrapping.java" />
@@ -95,6 +98,8 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise02.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise01.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise05.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise06.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/LogExeceptions.java" />
       </list>
     </option>
   </component>
@@ -122,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -139,6 +143,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -444,14 +449,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590587286245</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="keep on Ch11 (P.339)">
+      <created>1590638764513</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1590638764513</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16263238" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16490166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -460,7 +472,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28688523" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28688523" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,7 +504,8 @@
     <MESSAGE value="keep on Ch10" />
     <MESSAGE value="finish Ch10 (but remember to improve)" />
     <MESSAGE value="start Ch11" />
-    <option name="LAST_COMMIT_MESSAGE" value="start Ch11" />
+    <MESSAGE value="keep on Ch11 (P.339)" />
+    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch11 (P.339)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -520,20 +533,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/AccessInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Outer02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -986,8 +985,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="450">
           <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/LogExeceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
