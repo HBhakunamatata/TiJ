@@ -23,9 +23,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="509">
+                <caret line="107" column="2" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -182,7 +182,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -492,14 +492,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590910308394</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="keep on Ch11 (P.370)">
+      <created>1591111431067</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1591111431067</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13086233" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -546,7 +553,8 @@
     <MESSAGE value="keep on Ch11 (P.350)" />
     <MESSAGE value="keep on Ch11 (P.359)" />
     <MESSAGE value="keep on Ch11 (P.360)" />
-    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch11 (P.360)" />
+    <MESSAGE value="keep on Ch11 (P.370)" />
+    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch11 (P.370)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1012,9 +1020,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="509">
+            <caret line="107" column="2" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
