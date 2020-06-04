@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/ExceptionMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/ExceptionMethods.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Ch11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,13 +20,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="249">
-                <caret line="180" column="48" lean-forward="true" selection-start-line="180" selection-start-column="48" selection-end-line="180" selection-end-column="48" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/RethrowNew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -531,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591263771116</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="finishing Ch11 (2)">
+      <created>1591283744277</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1591283744278</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -588,7 +588,8 @@
     <MESSAGE value="keep on Ch11 (P.370)" />
     <MESSAGE value="finish Ch11 (1)" />
     <MESSAGE value="finish Ch11 (2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish Ch11 (2)" />
+    <MESSAGE value="finishing Ch11 (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -616,13 +617,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch09/MultiInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Exercise23.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1064,10 +1058,17 @@
     <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="249">
-            <caret line="180" column="48" lean-forward="true" selection-start-line="180" selection-start-column="48" selection-end-line="180" selection-end-column="48" />
+          <first_editor relative-caret-position="199">
+            <caret line="184" selection-start-line="184" selection-end-line="184" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/RethrowNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
