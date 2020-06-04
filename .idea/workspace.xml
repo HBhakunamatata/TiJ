@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/ExceptionMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/ExceptionMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Ch11.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +24,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="249">
+                <caret line="180" column="48" lean-forward="true" selection-start-line="180" selection-start-column="48" selection-end-line="180" selection-end-column="48" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -46,9 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/MultiNestingAccess.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/MultiInterface.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/MultiImplementation.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Sequence03.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise23.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/InheritingInner.java" />
@@ -95,8 +99,11 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/LostException.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/ExceptionSilencer.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise08.java" />
-        <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise09.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/WhoCalled.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Rethrowing.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
       </list>
     </option>
   </component>
@@ -124,6 +131,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+              <item name="Ch09" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,23 +185,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-              <item name="Ch09" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +193,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -213,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionMethods">
+  <component name="RunManager" selected="Application.Rethrowing">
     <configuration name="ExceptionMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.ExceptionMethods" />
       <module name="TiJ" />
@@ -253,8 +260,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LostException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.LostException" />
+    <configuration name="Rethrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Rethrowing" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -266,8 +273,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleReturns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.MultipleReturns" />
+    <configuration name="WhoCalled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.WhoCalled" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -281,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rethrowing" />
+        <item itemvalue="Application.WhoCalled" />
         <item itemvalue="Application.ExceptionMethods" />
         <item itemvalue="Application.Exercise07" />
         <item itemvalue="Application.ExceptionSilencer" />
-        <item itemvalue="Application.LostException" />
-        <item itemvalue="Application.MultipleReturns" />
       </list>
     </recent_temporary>
   </component>
@@ -517,14 +524,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591254313634</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="finish Ch11 (2)">
+      <created>1591263771116</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1591263771116</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20877458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15582451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -533,7 +547,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3442623" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3442623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -602,30 +616,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../net.mindview.util.jar!/net/mindview/util/Print.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch09/MultiInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -1037,20 +1027,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="296">
-            <caret line="183" column="2" selection-start-line="183" selection-start-column="2" selection-end-line="183" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="200">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/WhoCalled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Rethrowing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="249">
+            <caret line="180" column="48" lean-forward="true" selection-start-line="180" selection-start-column="48" selection-end-line="180" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

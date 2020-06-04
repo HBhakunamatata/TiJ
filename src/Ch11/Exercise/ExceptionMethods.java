@@ -5,11 +5,11 @@ import static net.mindview.util.Print.*;
 public class ExceptionMethods {
     public static void main(String[] args) {
         try{
-            throw new Exception("Exception Methods");
+            throw new Exception("ExceptionMethods");
         } catch (Exception e) {
-            print("getMessage:" + e.getMessage());
-            print("getLocalizedMessage" + e.getLocalizedMessage());
-            print("toString" + e.toString());
+            print("getMessage : " + e.getMessage());
+            print("getLocalizedMessage : " + e.getLocalizedMessage());
+            print("toString : " + e.toString());
 
             print("printStackTrace():");
             e.printStackTrace(System.out);
