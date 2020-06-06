@@ -110,3 +110,12 @@ public class DynamicFields {
         }
     }
 }
+
+/*
+If the client programmer calls getField( ),
+then they are responsible for handling NoSuchFieldException,
+but if this exception is thrown inside setField( ),
+it’s a programming error,
+so the NoSuchFieldException is converted to a RuntimeException
+using the constructor that takes a cause argument.
+ */
