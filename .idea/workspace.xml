@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Ch11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/RethrowNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/RethrowNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/DynamicFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/DynamicFields.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/DynamicFields.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="107" column="37" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
+            <state relative-caret-position="1472">
+              <caret line="98" column="39" lean-forward="true" selection-start-line="98" selection-start-column="39" selection-end-line="98" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -143,7 +141,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,6 +170,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,9 +206,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RethrowNew">
-    <configuration name="ExceptionMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.ExceptionMethods" />
+  <component name="RunManager" selected="Application.DynamicFields">
+    <configuration name="DynamicFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.DynamicFields" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -222,8 +220,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Exercise07" />
+    <configuration name="ExceptionMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.ExceptionMethods" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -276,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DynamicFields" />
         <item itemvalue="Application.RethrowNew" />
         <item itemvalue="Application.Rethrowing" />
         <item itemvalue="Application.WhoCalled" />
         <item itemvalue="Application.ExceptionMethods" />
-        <item itemvalue="Application.Exercise07" />
       </list>
     </recent_temporary>
   </component>
@@ -533,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591283856504</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="finishing Ch11 (P.351)">
+      <created>1591372449247</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1591372449247</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView">
@@ -549,7 +554,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1603631" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16263238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -558,7 +563,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3442623" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47868854" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -641,7 +646,8 @@
     <MESSAGE value="finish Ch11 (2)" />
     <MESSAGE value="finishing Ch11 (2)" />
     <MESSAGE value="finishing Ch11 (P.349)" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (P.349)" />
+    <MESSAGE value="finishing Ch11 (P.351)" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (P.351)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1107,8 +1113,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/DynamicFields.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="107" column="37" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
+        <state relative-caret-position="1472">
+          <caret line="98" column="39" lean-forward="true" selection-start-line="98" selection-start-column="39" selection-end-line="98" selection-end-column="39" />
         </state>
       </provider>
     </entry>

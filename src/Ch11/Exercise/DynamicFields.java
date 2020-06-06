@@ -30,7 +30,7 @@ public class DynamicFields {
 
     private int hasField (String id) {
         for (int i = 0; i < fields.length; i++) {
-            if ( id.equals(fields[i][1]) )
+            if ( id.equals(fields[i][0]) )
                 return i;
         }
         return -1;
@@ -59,7 +59,7 @@ public class DynamicFields {
         return makeField(id);
     }
 
-    public Object getField (String id) throws NoSuchFieldException {
+    public Object getValue (String id) throws NoSuchFieldException {
         return fields[getFieldNumber(id)][1];
     }
 
@@ -81,7 +81,7 @@ public class DynamicFields {
 
         Object result = null;
         try {
-            result = getField(id); // Get old value
+            result = getValue(id); // Get old value
         } catch(NoSuchFieldException e) {
             // Use constructor that takes "cause":
             throw new RuntimeException(e);
@@ -101,7 +101,7 @@ public class DynamicFields {
             df.setField("d", "A new value for d");
             df.setField("number3", 11);
             print("df: " + df);
-            print("df.getField(\"d\") : " + df.getField("d"));
+            print("df.getValue(\"d\") : " + df.getValue("d"));
             Object field = df.setField("d", null); // Exception
         } catch(NoSuchFieldException e) {
             e.printStackTrace(System.out);
