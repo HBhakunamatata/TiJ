@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/Exercise11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch11/Exercise/Exercise11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/DynamicFields.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/DynamicFields.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/Exercise10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Exercise/Exercise10.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Ch11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/DynamicFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/DynamicFields.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/LostException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/LostException.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,10 +23,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/OnOffException1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="318">
+                <caret line="250" selection-start-line="250" selection-end-line="250" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -54,14 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.ignore" />
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/InheritInner.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Exercise26.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/BigEgg2.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Ch09.md" />
-        <option value="$PROJECT_DIR$/src/Ch10/Exercise/ApplesAndOrangesWithoutGenerics.java" />
-        <option value="$PROJECT_DIR$/src/Ch10/Exercise/ApplesAndOrangesWithGenerics.java" />
-        <option value="$PROJECT_DIR$/src/Ch10/Exercise/GenericsAndUpcasting.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/Exercise01.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/SimpleCollection.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/Exercise02.java" />
@@ -84,7 +74,6 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise07.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise04.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/NeverCaught.java" />
-        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise12.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/FinallyWorks.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Switch.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/OnOffException1.java" />
@@ -93,7 +82,6 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/WithFinally.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/AlwaysFinally.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/MultipleReturns.java" />
-        <option value="$PROJECT_DIR$/src/Ch11/Exercise/LostException.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/ExceptionSilencer.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise08.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionMethods.java" />
@@ -104,6 +92,16 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/DynamicFields.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise10.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise11.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise12.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise13.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise14.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise15.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise16.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise17.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/LostException.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionSilencer.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise18.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
       </list>
     </option>
@@ -132,22 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-              <item name="Ch09" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,19 +156,26 @@
               <item name="Ch11" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch11" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicFields.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+              <item name="Ch09" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,9 +212,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FinallyWorks">
-    <configuration name="DynamicFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.DynamicFields" />
+  <component name="RunManager" selected="Application.Exercise18">
+    <configuration name="ExceptionSilencer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.ExceptionSilencer" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -236,8 +226,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Exercise10" />
+    <configuration name="Exercise15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Exercise15" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -249,8 +239,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Exercise11" />
+    <configuration name="Exercise18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Exercise18" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -262,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinallyWorks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.FinallyWorks" />
+    <configuration name="LostException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.LostException" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -275,8 +265,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RethrowNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.RethrowNew" />
+    <configuration name="WithFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.WithFinally" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -290,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FinallyWorks" />
-        <item itemvalue="Application.Exercise11" />
-        <item itemvalue="Application.Exercise10" />
-        <item itemvalue="Application.DynamicFields" />
-        <item itemvalue="Application.RethrowNew" />
+        <item itemvalue="Application.Exercise18" />
+        <item itemvalue="Application.ExceptionSilencer" />
+        <item itemvalue="Application.LostException" />
+        <item itemvalue="Application.Exercise15" />
+        <item itemvalue="Application.WithFinally" />
       </list>
     </recent_temporary>
   </component>
@@ -561,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591419067319</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="finishing Ch11 (P.357)">
+      <created>1591439260407</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1591439260407</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView">
@@ -575,8 +572,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16263238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -585,7 +583,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.47868854" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.33114755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -669,7 +667,8 @@
     <MESSAGE value="finishing Ch11 (2)" />
     <MESSAGE value="finishing Ch11 (P.349)" />
     <MESSAGE value="finishing Ch11 (P.351)" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (P.351)" />
+    <MESSAGE value="finishing Ch11 (P.357)" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (P.357)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -697,103 +696,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/ApplesAndOrangesWithoutGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/ApplesAndOrangesWithGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/GenericsAndUpcasting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/Exercise01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/SimpleCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="10" column="30" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/Exercise02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Exercises/Selector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9993">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -928,7 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise12.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Switch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -942,51 +843,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/OnOffException2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/OnOffSwitch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/WithFinally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/AlwaysFinally.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-125">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/MultipleReturns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/LostException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1035,13 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/RethrowNew.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1076,13 +929,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Execise10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Execise10.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1115,20 +962,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/OnOffException1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Sequence.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/OnOffException2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/OnOffSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/WithFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/MultipleReturns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Ch08.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="92">
-            <caret line="237" column="24" lean-forward="true" selection-start-line="237" selection-start-column="24" selection-end-line="237" selection-end-column="24" />
-          </first_editor>
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/OnOffException1.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch07/Ch07.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-150" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        <state relative-caret-position="285">
+          <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#1806#1807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/ExceptionSilencer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/LostException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="318">
+            <caret line="250" selection-start-line="250" selection-end-line="250" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -1,36 +1,24 @@
 package Ch11.Exercise;
 
 // How an exception can be lost.
-class VeryImportantException extends Exception {
-    public String toString() {
-        return "A very important exception!";
-    }
-}
-
-class HoHumException extends Exception {
-    public String toString() {
-        return "A trivial exception";
-    }
-}
 
 public class LostException {
-    static void f() throws VeryImportantException {
-        throw new VeryImportantException();
+    static void f1() throws OneException {
+        throw new OneException("OneException");
     }
-    static void g() throws HoHumException {
-        throw new HoHumException();
+    static void f2() throws TwoException {
+        throw new TwoException("TwoException");
     }
 
-    public static void main(String[] args) {
-        try{
-            f();
-            try{
-                g();
+    public static void main(String [] args) {
+        try {
+            try {
+                f1();
             } finally {
-
+                f2();
             }
-        }catch (Exception e){
-            System.out.println(e);
+        } catch (Exception e) {
+            e.printStackTrace(System.out);
         }
     }
 }
