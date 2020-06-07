@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Ch11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,13 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="245">
-                <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -50,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch09/Exercises/Selector.java" />
-        <option value="$PROJECT_DIR$/src/Ch10/Exercise/Sequence.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/AddGroups.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java" />
@@ -100,7 +95,9 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/StormyInning.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/InputFile.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Cleanup.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Human.java" />
       </list>
     </option>
   </component>
@@ -128,6 +125,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
+              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
+              <item name="Ch09" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,23 +171,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="58d84e3e:PackageViewProjectNode" />
-              <item name="TiJ" type="616d4139:PackageViewModuleNode" />
-              <item name="Ch09" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,9 +207,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StormyInning">
-    <configuration name="ExceptionSilencer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.ExceptionSilencer" />
+  <component name="RunManager" selected="Application.Human">
+    <configuration name="Cleanup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Cleanup" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -224,8 +221,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Exercise15" />
+    <configuration name="ExceptionSilencer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.ExceptionSilencer" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -250,8 +247,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LostException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.LostException" />
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.Human" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -278,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Human" />
+        <item itemvalue="Application.Cleanup" />
         <item itemvalue="Application.StormyInning" />
         <item itemvalue="Application.Exercise18" />
         <item itemvalue="Application.ExceptionSilencer" />
-        <item itemvalue="Application.LostException" />
-        <item itemvalue="Application.Exercise15" />
       </list>
     </recent_temporary>
   </component>
@@ -570,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591502066624</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="finishing Ch11 (P.362)">
+      <created>1591521318861</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1591521318861</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
@@ -586,7 +590,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19591528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -595,7 +599,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.33114755" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.18196721" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -708,27 +712,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#511#517#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/PrintingContainers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/FullConstructors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1092,21 +1075,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/InputFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="-542">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Cleanup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="245">
-            <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+          <first_editor relative-caret-position="420">
+            <caret line="283" column="19" selection-start-line="283" selection-start-column="19" selection-end-line="283" selection-end-column="19" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
         </state>
       </provider>
     </entry>
