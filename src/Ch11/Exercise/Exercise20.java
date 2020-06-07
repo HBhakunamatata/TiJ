@@ -5,12 +5,6 @@ package Ch11.Exercise;
  and methods that throw this exception. Test the modified hierarchy.
  */
 
-// exceptions/StormyInning20.java
-// TIJ4 Chapter Exceptions, Exercise 20, page
-/* MOdify StormyInning.java by adding an UmpireArgument exception type
-* and methods that throw this exception. Test the modified hierarchy.
-*/
-
 // Overridden methods may throw only the exceptions
 // specified in their base-class versions, or exceptions
 // derived from the base-class exceptions.

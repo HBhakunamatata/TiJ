@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Ch11.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +21,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="245">
+                <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -47,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch10/Exercise/Exercise02.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Selector.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/Sequence.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/AddGroups.java" />
@@ -96,8 +98,9 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionSilencer.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise18.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/StormyInning.java" />
-        <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/InputFile.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
       </list>
     </option>
   </component>
@@ -149,14 +152,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch11" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch11" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="StormyInning.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -568,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591454979096</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="finishing Ch11 (P.362)">
+      <created>1591502066624</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1591502066624</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView">
@@ -653,7 +655,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reading Ch09" />
     <MESSAGE value="devide an interface" />
     <MESSAGE value="keep on Ch09" />
     <MESSAGE value="keep on Ch09 :&lt;" />
@@ -678,7 +679,8 @@
     <MESSAGE value="finishing Ch11 (P.351)" />
     <MESSAGE value="finishing Ch11 (P.357)" />
     <MESSAGE value="finishing Ch11 (P.360)" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (P.360)" />
+    <MESSAGE value="finishing Ch11 (P.362)" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (P.362)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -706,16 +708,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/AddGroups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/AsArrayInference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -1084,16 +1076,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/StormyInning.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="859">
@@ -1103,8 +1085,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/InputFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="245">
+            <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
