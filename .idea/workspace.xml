@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiJ/Ch11/Ch11.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch11/Ch11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Ch11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercise/LostException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercise/LostException.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,13 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="318">
-                <caret line="250" selection-start-line="250" selection-end-line="250" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -52,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch10/Exercise/Exercise01.java" />
-        <option value="$PROJECT_DIR$/src/Ch10/Exercise/SimpleCollection.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/Exercise02.java" />
         <option value="$PROJECT_DIR$/src/Ch09/Exercises/Selector.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Exercise/Sequence.java" />
@@ -102,7 +95,9 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/LostException.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/ExceptionSilencer.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise18.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/StormyInning.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Ch11.md" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java" />
       </list>
     </option>
   </component>
@@ -130,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,6 +150,14 @@
               <item name="Ch11" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch11" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="StormyInning.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise18">
+  <component name="RunManager" selected="Application.StormyInning">
     <configuration name="ExceptionSilencer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.ExceptionSilencer" />
       <module name="TiJ" />
@@ -265,8 +268,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WithFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.WithFinally" />
+    <configuration name="StormyInning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercise.StormyInning" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -280,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StormyInning" />
         <item itemvalue="Application.Exercise18" />
         <item itemvalue="Application.ExceptionSilencer" />
         <item itemvalue="Application.LostException" />
         <item itemvalue="Application.Exercise15" />
-        <item itemvalue="Application.WithFinally" />
       </list>
     </recent_temporary>
   </component>
@@ -558,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591439260407</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="finishing Ch11 (P.360)">
+      <created>1591454979096</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1591454979096</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView">
@@ -574,7 +584,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19591528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -583,7 +593,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.33114755" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.33114755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -643,7 +653,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reading Ch08" />
     <MESSAGE value="reading Ch09" />
     <MESSAGE value="devide an interface" />
     <MESSAGE value="keep on Ch09" />
@@ -668,7 +677,8 @@
     <MESSAGE value="finishing Ch11 (P.349)" />
     <MESSAGE value="finishing Ch11 (P.351)" />
     <MESSAGE value="finishing Ch11 (P.357)" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (P.357)" />
+    <MESSAGE value="finishing Ch11 (P.360)" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing Ch11 (P.360)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -696,26 +706,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Java/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-930">
-          <caret line="3811" column="8" selection-start-line="3811" selection-start-column="8" selection-end-line="3811" selection-end-column="8" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-            <element signature="e#177353#177354#0" expanded="true" />
-            <element signature="e#177410#177411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch10/Exercise/AddGroups.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1096,11 +1086,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="318">
-            <caret line="250" selection-start-line="250" selection-end-line="250" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/StormyInning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
         </state>
       </provider>
     </entry>
