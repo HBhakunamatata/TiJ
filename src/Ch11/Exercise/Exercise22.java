@@ -7,11 +7,11 @@ package Ch11.Exercise;
  */
 
 class FailConstructor {
-    FailConstructor(int index) throws Exception {
+    FailConstructor(int index) throws ConstructionException {
         if(index % 2 == 1) {
-            throw new Exception("Constructor failed");
+            throw new ConstructionException();
         }else {
-            System.out.println("Constructor succeed");
+            System.out.println("Construction succeed");
         }
     }
 
@@ -22,11 +22,12 @@ public class Exercise22 {
         try{
             FailConstructor fc = new FailConstructor(2);
             try {
-                fc.toString();
+                //
             } finally {
                 System.out.println("Release FailConstructor");
             }
         } catch (Exception e) {
+            System.out.println("Construction failed");
             e.printStackTrace();
         }
     }
