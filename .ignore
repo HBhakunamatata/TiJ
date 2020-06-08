@@ -1,3 +1,14 @@
+# idea ignore
+.idea/
+out/
+*.iml
+.ignore
+
+# Others
+# *.properties
+# pom.xml
+# mybaties-*.xml
+
 # Compiled class file
 *.class
 
