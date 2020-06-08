@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Ch02_Operator/Ch02.md" line="38" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="finished Ch11 (P.375)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
-    </list>
+    <list default="true" id="1363fab9-bb92-4745-b530-3da921dcba21" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.ignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
+            <state relative-caret-position="-50">
               <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
@@ -132,11 +129,6 @@
               <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="TiJ" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TiJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TiJ" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -170,6 +162,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\IdeaProjects\TiJ" />
       <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch09" />
       <recent name="C:\Users\Mike\IdeaProjects\TiJ\src\Ch00" />
     </key>
@@ -583,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591628168208</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="finished Ch11 (P.375)">
+      <created>1591629136944</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1591629136944</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -596,8 +596,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1101,7 +1100,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.ignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
+        <state relative-caret-position="-50">
           <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
