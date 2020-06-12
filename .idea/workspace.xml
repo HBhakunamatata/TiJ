@@ -21,10 +21,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch12/Exercise/BetterRead.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+        <entry file="file://$PROJECT_DIR$/src/Ch12/Ch12.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="147">
+                <caret line="144" column="32" selection-start-line="144" selection-start-column="32" selection-end-line="144" selection-end-column="32" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -47,11 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise20.java" />
-        <option value="$PROJECT_DIR$/src/Ch11/Exercise/InputFile.java" />
-        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Cleanup.java" />
-        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Human.java" />
-        <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise21.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/CleanupIdiom.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise22.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercise/Exercise23.java" />
@@ -96,8 +94,13 @@
         <option value="$PROJECT_DIR$/src/Ch12/Exercise/SplitDemo.java" />
         <option value="$PROJECT_DIR$/src/Ch12/Exercise/Exercise14.java" />
         <option value="$PROJECT_DIR$/src/Ch12/Exercise/SimpleRead.java" />
-        <option value="$PROJECT_DIR$/src/Ch12/Ch12.md" />
         <option value="$PROJECT_DIR$/src/Ch12/Exercise/BetterRead.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Exercise/Exercise20.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Exercise/ScannerDelimiter.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Exercise/ThreatAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Exercise/StringTokenizer.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Exercise/ReplacingStringTokenizer.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Ch12.md" />
       </list>
     </option>
   </component>
@@ -209,22 +212,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BetterRead">
+  <component name="RunManager" selected="Application.ReplacingStringTokenizer">
     <configuration name="BetterRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch12.Exercise.BetterRead" />
-      <module name="TiJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch12.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch12.Exercise.Exercise12" />
       <module name="TiJ" />
       <extension name="coverage">
         <pattern>
@@ -249,6 +239,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReplacingStringTokenizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch12.Exercise.ReplacingStringTokenizer" />
+      <module name="TiJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch12.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerDelimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch12.Exercise.ScannerDelimiter" />
+      <module name="TiJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch12.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch12.Exercise.SimpleRead" />
       <module name="TiJ" />
@@ -262,26 +278,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch12.Exercise.SplitDemo" />
-      <module name="TiJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch12.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReplacingStringTokenizer" />
+        <item itemvalue="Application.ScannerDelimiter" />
         <item itemvalue="Application.BetterRead" />
         <item itemvalue="Application.SimpleRead" />
         <item itemvalue="Application.Exercise14" />
-        <item itemvalue="Application.SplitDemo" />
-        <item itemvalue="Application.Exercise12" />
       </list>
     </recent_temporary>
   </component>
@@ -295,13 +298,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573880748345</updated>
-    </task>
-    <task id="LOCAL-00001" summary="reading Ch08">
-      <created>1578397523598</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1578397523606</updated>
     </task>
     <task id="LOCAL-00002" summary="reading Ch09">
       <created>1589181883268</created>
@@ -639,7 +635,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591887548818</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="keep on Ch12 (P.410)">
+      <created>1591974244871</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1591974244872</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TodoView">
@@ -655,7 +658,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16868381" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16868381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -664,7 +667,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.36557376" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.36557376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -724,7 +727,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finish Ch09.md" />
     <MESSAGE value="start Ch10" />
     <MESSAGE value="keep on Ch10" />
     <MESSAGE value="finish Ch10 (but remember to improve)" />
@@ -749,7 +751,8 @@
     <MESSAGE value="start Ch12 (P.383)" />
     <MESSAGE value="keep on Ch12 (P.391)" />
     <MESSAGE value="keep on Ch12 (P.397)" />
-    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch12 (P.397)" />
+    <MESSAGE value="keep on Ch12 (P.410)" />
+    <option name="LAST_COMMIT_MESSAGE" value="keep on Ch12 (P.410)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -777,38 +780,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercise/Exercise30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Ch11.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1162,13 +1133,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Ch12.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="311">
-            <caret line="134" selection-start-line="134" selection-end-line="134" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Exercise/BetterRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1179,10 +1147,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Exercise/BetterRead.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Exercise/Exercise20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+        <state relative-caret-position="225">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Exercise/ScannerDelimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Exercise/ThreatAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Exercise/ReplacingStringTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Ch12.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="147">
+            <caret line="144" column="32" selection-start-line="144" selection-start-column="32" selection-end-line="144" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
