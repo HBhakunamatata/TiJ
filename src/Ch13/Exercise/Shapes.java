@@ -4,7 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 
 abstract class Shape {
-    void draw() { System.out.println(this + ".draw()"); }
+    boolean isHighLighted = false;
+    void draw() { System.out.println(this + ".draw() and it's " +
+            (isHighLighted ? "highlighted" : "unhighlighted")); }
     abstract public String toString();
 }
 

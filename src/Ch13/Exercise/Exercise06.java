@@ -8,4 +8,7 @@ package Ch13.Exercise;
  */
 
 public class Exercise06 {
+    public static void main(String[] args) {
+        Shapes.main(new String [1]);
+    }
 }
