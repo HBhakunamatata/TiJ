@@ -6,13 +6,16 @@ interface HasBatteries {}
 interface Waterproof {}
 interface Shoots {}
 
+// Exercise02
+interface Exercise02Interface {}
+
 class Toy {
     // Toy() { }
     Toy(int i) { }
 }
 
 class FancyToy extends Toy
-implements HasBatteries, Waterproof, Shoots {
+implements HasBatteries, Waterproof, Shoots, Exercise02Interface {
     FancyToy() {
         super(1);
     }
