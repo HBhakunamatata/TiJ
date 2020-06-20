@@ -11,7 +11,7 @@ package Ch13.Exercise;
 public class Exercise07 {
     public static void main(String[] args) {
         try {
-            Class c = Class.forName(args[0]);
+            Class c = Class.forName("Ch13.Exercise." + args[0]);
             Object obj = c.newInstance();
             System.out.println(args[0] + " object is created");
         } catch (ClassNotFoundException e) {
