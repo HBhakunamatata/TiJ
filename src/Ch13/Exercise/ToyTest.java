@@ -50,6 +50,7 @@ public class ToyTest {
         Object obj = null;
         try {
             obj = up.newInstance();
+            Toy toy = (Toy)up.newInstance();
         } catch (InstantiationException e) {
             print("Cannot instantiate");
             System.exit(1);
