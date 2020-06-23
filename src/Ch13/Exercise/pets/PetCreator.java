@@ -1,31 +1,34 @@
-//: typeinfo/pets/PetCreator.java
-// Creates random sequences of Pets.
 package Ch13.Exercise.pets;
+
 import java.util.*;
 
 public abstract class PetCreator {
-    private Random rand = new Random(47);
-    // The List of the different types of Pet to create:
-    public abstract List<Class<? extends Pet>> types();
-    public Pet randomPet() { // Create one random Pet
-        int n = rand.nextInt(types().size());
+    abstract List<Class<? extends Pet>> types();
+
+    private Random random = new Random(types().size());
+
+    public Pet randomPet() {
+        int n = random.nextInt();
         try {
             return types().get(n).newInstance();
-        } catch(InstantiationException e) {
+        } catch (InstantiationException e) {
             throw new RuntimeException(e);
-        } catch(IllegalAccessException e) {
+        } catch (IllegalAccessException e) {
             throw new RuntimeException(e);
         }
     }
-    public Pet[] createArray(int size) {
-        Pet[] result = new Pet[size];
-        for(int i = 0; i < size; i++)
-            result[i] = randomPet();
-        return result;
+
+    public Pet [] createArray(int size){
+        Pet [] pets = new Pet[size];
+        for (int i = 0; i < size; i++) {
+            pets[i] = randomPet();
+        }
+        return pets;
     }
-    public ArrayList<Pet> arrayList(int size) {
+
+    public List<Pet> arrayList (int size) {
         ArrayList<Pet> result = new ArrayList<Pet>();
         Collections.addAll(result, createArray(size));
         return result;
     }
-} ///:~
+}
