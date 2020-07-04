@@ -5,10 +5,10 @@ import java.util.*;
 public abstract class PetCreator {
     abstract List<Class<? extends Pet>> types();
 
-    private Random random = new Random(types().size());
+    private Random random = new Random();
 
     public Pet randomPet() {
-        int n = random.nextInt();
+        int n = random.nextInt(types().size());
         try {
             return types().get(n).newInstance();
         } catch (InstantiationException e) {

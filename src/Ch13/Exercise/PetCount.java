@@ -19,13 +19,13 @@ public class PetCount {
 
     public static void countPet(PetCreator petCreator) {
         PetCounter petCounter = new PetCounter();
-        for (Pet pet: petCreator.createArray(10)) {
+        for (Pet pet: petCreator.createArray(20)) {
             petCounter.count( pet.getClass().getSimpleName() );
         }
         print(petCounter);
     }
 
     public static void main(String[] args) {
-        //
+        countPet(new ForNameCreator());
     }
 }
