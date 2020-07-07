@@ -3,7 +3,7 @@ package Ch13.Exercise.pets;
 import java.util.*;
 
 public abstract class PetCreator {
-    abstract List<Class<? extends Pet>> types();
+    public abstract List<Class<? extends Pet>> types();
 
     private Random random = new Random();
 
