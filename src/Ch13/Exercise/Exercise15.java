@@ -6,36 +6,12 @@ package Ch13.Exercise;
   Ensure that the rest of the examples that use Pets.Java still work correctly.
  */
 
-import Ch13.Exercise.factory.Factory;
 import Ch13.Exercise.pets.*;
-import java.util.*;
-
-class FactoryPetCreator extends PetCreator {
-    private static List<Factory<? extends Pet>> types = new ArrayList<>();
-    static void loader() {
-        for (Class<? extends Pet> cc : LiteralPetCreator.allTypes) {
-            types.add((Factory<? extends Pet>) () -> {
-                try {
-                    return cc.newInstance();
-                } catch (InstantiationException e) {
-                    e.printStackTrace();
-                } catch (IllegalAccessException e) {
-                    e.printStackTrace();
-                }
-                return null;
-            });
-        }
-    }
-    static {
-        loader();
-    }
-    public List<Class<? extends Pet>> types() {
-        return LiteralPetCreator.allTypes;
-    }
-}
 
 public class Exercise15 {
     public static void main(String[] args) {
-
+        for (int i = 0; i < 10; i++) {
+            System.out.println(FactoryPetCreator.createPet());
+        }
     }
 }
