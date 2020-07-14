@@ -20,7 +20,7 @@ public class Staff extends ArrayList<Position> {
         }
     }
 
-    public boolean isPositionAvailable (String title) {
+    public boolean positionAvailable (String title) {
         for (Position p : this) {
             if (p.getPerson().equals(title)
                 && p.getPerson() == Person.Null) {
@@ -35,13 +35,29 @@ public class Staff extends ArrayList<Position> {
             if (p.getTitle().equals(title)
                     && p.getPerson() == Person.Null) {
                 p.setPerson(hire);
+                return;
             }
         }
         throw new RuntimeException("Position " + title + " not available");
     }
 
     public static void main(String[] args) {
-
+        Staff staff = new Staff("President", "CTO",
+            "Marketing Manager", "Product Manager",
+            "Project Lead", "Software Engineer",
+            "Software Engineer", "Software Engineer",
+            "Software Engineer", "Test Engineer",
+            "Technical Writer"
+        );
+        //System.out.println(staff);
+        staff.fillPosition("President",
+                new Person("Me", "Last", "The Top, Lonely At"));
+        staff.fillPosition("Project Lead",
+                new Person("Janet", "Planner", "The Burbs"));
+        if(staff.positionAvailable("Software Engineer"))
+            staff.fillPosition("Software Engineer",
+                    new Person("Bob", "Coder", "Bright Light City"));
+        System.out.println(staff);
     }
 
 }
