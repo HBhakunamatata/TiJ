@@ -1,46 +1,46 @@
 package Ch14.Exercise;
 
-public class LinkedStack <T> {
-    private static class Node <T> {
-        T item;
-        Node<T> next;
+// A stack implemented with an internal linked structure.
 
-        Node() {
+public class LinkedStack <T> {
+    private static class Node <U> {
+        U item;
+        Node <U> next;
+        Node () {
             item = null;
             next = null;
         }
 
-        Node(T item, Node<T> next) {
+        Node (U item, Node <U> next) {
             this.item = item;
             this.next = next;
         }
 
-        boolean end() {
+        public boolean end() {
             return item == null && next == null;
         }
     }
 
-    private Node <T> top = new Node <T> ();
+    private Node <T> top = new Node<>();
 
     public void push (T item) {
         top = new Node<T>(item, top);
     }
 
-    public T pop () {
+    public T pop() {
         T result = top.item;
-        if (!top.end())
+        if (top.end())  // awesome
             top = top.next;
         return result;
     }
 
     public static void main(String[] args) {
-        LinkedStack <String> stringStack = new LinkedStack<>();
-        String s;
-        for (String ss : "You are here!".split(" ") ) {
-            stringStack.push(ss);
-        }
-        while ( (s=stringStack.pop()) != null  ) {
-            System.out.println(s);
+        LinkedStack<String> linkedStack = new LinkedStack<String>();
+        for(String s : "Phasers on stun!".split(" "))
+            linkedStack.push(s);
+        String ss = null;
+        while ((ss = linkedStack.pop()) != null) {
+            System.out.println(ss);
         }
     }
 }

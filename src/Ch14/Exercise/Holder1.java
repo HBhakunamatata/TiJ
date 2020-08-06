@@ -1,7 +1,5 @@
 package Ch14.Exercise;
 
-import javax.xml.ws.Holder;
-
 class Automobile {}
 
 public class Holder1 {

@@ -5,19 +5,19 @@ package Ch14.Exercise;
   the code in LinkedStack.java to show that an inner class has access to
   the generic type parameters of its outer class.
  */
-/*
+
 public class Exercise05 <T> {
 
-    private static class Node {
+    private class Node {
         T item;
-        Node<T> next;
+        Node next;
 
         Node() {
             item = null;
             next = null;
         }
 
-        Node(T item, Node<T> next) {
+        Node( T item, Node next) {
             this.item = item;
             this.next = next;
         }
@@ -27,10 +27,10 @@ public class Exercise05 <T> {
         }
     }
 
-    private Node <T> top = new Node <T> ();
+    private Node top = new Node ();
 
     public void push (T item) {
-        top = new Node<T>(item, top);
+        top = new Node (item, top);
     }
 
     public T pop () {
@@ -40,4 +40,4 @@ public class Exercise05 <T> {
         return result;
     }
 }
-*/
+
