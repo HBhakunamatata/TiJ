@@ -29,7 +29,7 @@ public class LinkedStack <T> {
 
     public T pop() {
         T result = top.item;
-        if (top.end())  // awesome
+        if (!top.end())  // awesome
             top = top.next;
         return result;
     }
