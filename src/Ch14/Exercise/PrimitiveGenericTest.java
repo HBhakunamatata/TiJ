@@ -22,6 +22,6 @@ public class PrimitiveGenericTest {
             System.out.println(i);
         // Autoboxing won’t save you here. This won’t compile:
         // int[] b =
-        // FArray.fill(new int[7], new RandIntGenerator());
+        // FArray.fill(new int[7], new RandomGenerator.Integer());
     }
 }
