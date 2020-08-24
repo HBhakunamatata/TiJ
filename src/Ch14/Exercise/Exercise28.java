@@ -12,5 +12,7 @@ Test using the typeinfo.pets library.
 
  */
 
+// TODO: 2020/8/24
 public class Exercise28 {
+
 }
