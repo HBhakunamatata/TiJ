@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Collection;
 
 public class AddGroups {
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         Collection c = new ArrayList();
 
