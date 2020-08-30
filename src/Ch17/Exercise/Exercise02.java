@@ -35,7 +35,7 @@ class SortedDirList {
             if ( pattern.matcher(filename).matches() )
                 result.add(filename);
         }
-        return (String[]) result.toArray();
+        return result.toArray(new String [result.size()]);
     }
 }
 
@@ -44,8 +44,7 @@ public class Exercise02 {
         SortedDirList sortedDirList = new SortedDirList(
                 new File("./src/Ch17/Exercise") );
         System.out.println( Arrays.toString( sortedDirList.list() ) );
-        // TODO
-        // sortedDirList.list("D*.java");
+        System.out.println( Arrays.toString( sortedDirList.list(".*") ) );
 
     }
 }
