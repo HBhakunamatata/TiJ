@@ -1,0 +1,44 @@
+1 : package Ch17.Exercise;
+2 : 
+3 : /*
+4 :  * Modify BasicFileOutput.java so that it uses
+5 :  * LineNumberReader to keep track of the line count.
+6 :  * Note that it’s much easier to just keep track programmatically.
+7 :  */
+8 : 
+9 : import net.mindview.util.TextFile;
+10 : 
+11 : import java.io.*;
+12 : 
+13 : public class Exercise13 {
+14 : 
+15 :     public static void main(String[] args) throws IOException {
+16 : 
+17 :         String read = Util.prefix + "Exercise13.java";
+18 :         String write = Util.prefix + "Exercise13.out";
+19 : 
+20 :         LineNumberReader reader = new LineNumberReader(
+21 :                 new BufferedReader(
+22 :                         new FileReader(read)
+23 :                 )
+24 :         );
+25 : 
+26 :         PrintWriter writer = new PrintWriter(
+27 :                 new BufferedWriter(
+28 :                         new FileWriter(write)
+29 :                 )
+30 :         );
+31 : 
+32 :         String s;
+33 : 
+34 :         while ( (s = reader.readLine()) != null ) {
+35 :             writer.println(reader.getLineNumber() + " : " + s);
+36 :         }
+37 : 
+38 :         writer.close();
+39 : 
+40 :         System.out.println(TextFile.read(write));
+41 : 
+42 :     }
+43 : 
+44 : }
