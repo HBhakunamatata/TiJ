@@ -8,7 +8,6 @@ package Ch17.Exercise;
  * the "LineNumber" classes), out to the file.
  */
 
-import net.mindview.util.Directory;
 import net.mindview.util.TextFile;
 
 import java.io.BufferedWriter;
