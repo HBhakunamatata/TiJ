@@ -1,0 +1,41 @@
+1 : package Ch17.Exercise;
+2 : 
+3 : import java.io.*;
+4 : 
+5 : public class BasicFileOutput {
+6 :     public static void main(String[] args) throws IOException {
+7 : 
+8 :         String filePath = Util.prefix + "BasicFileOutput.java";
+9 :         String outFilePath = Util.prefix + "BasicFileOutput.out";
+10 : 
+11 :         BufferedReader reader = new BufferedReader(
+12 :                 new StringReader(
+13 :                     new BufferedInputFile().read(filePath)
+14 :                 )
+15 :         );
+16 : 
+17 :         PrintWriter writer = new PrintWriter(
+18 :                 new BufferedWriter(
+19 :                         new FileWriter(outFilePath)
+20 :                 )
+21 :         );
+22 : 
+23 : //        BufferedWriter writer =
+24 : //                new BufferedWriter(
+25 : //                        new FileWriter(outFilePath)
+26 : //                )
+27 : //        ;
+28 : 
+29 :         String s;
+30 :         int counter = 1;
+31 : 
+32 :         while ( (s = reader.readLine()) != null ) {
+33 :             // writer.write(counter++ + " : " + s);
+34 :             writer.println(counter++ + " : " + s);
+35 :         }
+36 : 
+37 :         // flush the memory
+38 :         writer.close();
+39 : 
+40 :     }
+41 : }
