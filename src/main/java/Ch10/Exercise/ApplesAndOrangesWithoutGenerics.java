@@ -16,7 +16,9 @@ class Orange {
 }
 
 public class ApplesAndOrangesWithoutGenerics {
-    public static void main(String[] args) throws Exception{
+
+    @SuppressWarnings("unchecked")
+    public static void main(String[] args) {
         ArrayList apples = new ArrayList();
         for( int i = 0; i < 3; i++) {
             apples.add(new Apple());
@@ -25,8 +27,8 @@ public class ApplesAndOrangesWithoutGenerics {
         // Not prevented from adding an Orange to apples:
         apples.add(new Orange());
 
-        for (int i = 0; i < apples.size(); i++) {
-            ((Apple)apples.get(i)).getId();
+        for (Object apple : apples) {
+            ((Apple)apple).getId();
             // Orange is detected only at run time
         }
     }

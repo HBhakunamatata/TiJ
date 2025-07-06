@@ -4,7 +4,7 @@ import static net.mindview.util.Print.*;
 
 import java.util.*;
 
-public class PrintingContainers {
+public class PrintingCollections {
 
     static Collection fill (Collection<String> c) {
         c.add("rat");

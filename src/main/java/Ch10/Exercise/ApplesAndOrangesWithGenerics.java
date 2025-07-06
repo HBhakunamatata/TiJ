@@ -14,15 +14,8 @@ public class ApplesAndOrangesWithGenerics {
         // Turn Running-time Exception into Compile-time error:
         // apples.add(new Orange());
 
-        for (int i = 0; i < apples.size(); i++){
-            System.out.print( apples.get(i).getId() );
-        }
-
-        System.out.println();
-
-        for (Apple a : apples
-             ) {
-            System.out.print( a.getId() );
+        for (Apple a : apples) {
+            System.out.println( a.getId() );
         }
     }
 }

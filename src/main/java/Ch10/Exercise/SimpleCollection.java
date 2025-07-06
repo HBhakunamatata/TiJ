@@ -12,8 +12,7 @@ public class SimpleCollection {
             c.add(i);   // autoboxing
         }
 
-        for (Integer i : c
-             ) {
+        for (Integer i : c) {
             System.out.print(i + ", ");
         }
     }
