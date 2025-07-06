@@ -12,6 +12,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
   <dependencies>
@@ -20,6 +22,22 @@
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>net.mindview</groupId>
+      <artifactId>net.mindview.util</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/net.mindview.util.jar</systemPath>
+    </dependency>
+
+    <dependency>
+      <groupId>apt-mirror-api</groupId>
+      <artifactId>apt-mirror-api</artifactId>
+      <version>0.1</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/apt-mirror-api-0.1.jar</systemPath>
     </dependency>
   </dependencies>
 </project>
