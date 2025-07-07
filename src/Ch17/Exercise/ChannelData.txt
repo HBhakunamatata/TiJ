@@ -1,2 +1,0 @@
-Channel write OutputStream
-Channel write Random
